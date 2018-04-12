@@ -35,7 +35,7 @@ for counter in {1000..1099};do
     number_string="_0"
     new_name="ico_22_$counter"
 
-    cp "$gray_file" new/"$new_name".svg
+    cp "$red_file" new/"$new_name".svg
 
     sed -i  "94s/999/$number/" new/"$new_name".svg
 
