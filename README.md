@@ -20,4 +20,4 @@ or
 ```
 
 
-Copy content of Breez or Breez dark folder from cloned repository to your Telegram folder .
+Copy content of Breez or Breez dark or ... folder from cloned repository to your Telegram folder .
