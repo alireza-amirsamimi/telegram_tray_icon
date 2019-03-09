@@ -120,7 +120,6 @@ else
     default_name="iconmute_22_0"
 fi
 
-
 # create default icon 
-inkscape -z -e  new/"icomute_22_0".png  -w 22 -h 22 "$icon_file" 2>/dev/null
+inkscape -z -e  new/"$default_name".png  -w 22 -h 22 "$icon_file" 2>/dev/null
 
